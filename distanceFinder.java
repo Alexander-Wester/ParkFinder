@@ -19,7 +19,8 @@ import org.json.JSONObject;
 	 */
 	public class distanceFinder 
 	{
-	    private static final String API_KEY = "AIzaSyBfO6dAHwIlPD8R0vzs7U1TbkGqWN2D8is";
+		//************************YOUR API KEY HERE************************************
+	    private static final String API_KEY = ;
 	
 	    public static void main(String[] args){
 	        CSVReader csvReader = new CSVReader("Parks.csv");
